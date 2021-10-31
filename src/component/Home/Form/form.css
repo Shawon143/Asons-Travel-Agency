@@ -1,0 +1,10 @@
+.form {
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
+    url("https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  color: #cecaca;
+  padding: 25px;
+  margin: 10px 0;
+}

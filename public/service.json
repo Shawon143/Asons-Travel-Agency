@@ -1,0 +1,45 @@
+[
+    {
+        "name": "India Kashmir",                    
+        "details": "Explore Kashmir in 04 days",                          
+        "img": "https://images.unsplash.com/photo-1593417376544-4c4201061e22?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=725&q=80",
+        "price": "STARTS FROM BDT 10,000 PER PERSON"       
+               
+    },
+    {
+        "name": "Bangladesh Sajek",                    
+        "details": "Explore Sajek in 03 days",                          
+        "img": "https://images.unsplash.com/photo-1578128178799-ffbb862243c0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "price": "STARTS FROM BDT 5,000 PER PERSON"       
+               
+    },
+    {
+        "name": "Maldive",                    
+        "details": "Explore Maldive in 06 days",                          
+        "img": "https://images.unsplash.com/photo-1543731068-7e0f5beff43a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=774&q=80",
+        "price": "STARTS FROM BDT 12,000 PER PERSON"       
+               
+    },
+    {
+        "name": "France",                    
+        "details": "Explore Paris in 04 days",                          
+        "img": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80",
+        "price": "STARTS FROM BDT 30,000 PER PERSON"       
+               
+    },
+    {
+        "name": "Bangladesh Saint Martin",                    
+        "details": "Explore Saint Martin in 03 days",                          
+        "img": "https://images.unsplash.com/photo-1582650625119-3a31f8fa2699?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=774&q=80",
+        "price": "STARTS FROM BDT 6,000 PER PERSON"       
+               
+    },
+    {
+        "name": "India",                    
+        "details": "Explore Darjeling & Gangtok in 07 days",                          
+        "img": "https://images.unsplash.com/photo-1622308644420-b20142dc993c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "price": "STARTS FROM BDT 14,000 PER PERSON"       
+               
+    }
+    
+]
